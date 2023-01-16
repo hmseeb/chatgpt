@@ -410,7 +410,7 @@ function App() {
                   Clone <code>chatgpt-server</code> repo.
                 </p>
                 <SyntaxHighlighter language="bash">
-                  git clone https://github.com/hmseeb/chatgpt.git
+                  git clone https://github.com/hmseeb/chatgpt-server.git
                 </SyntaxHighlighter>
 
                 <h3 className="text-lg font-medium mt-3">Step 2</h3>
